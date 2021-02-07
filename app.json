@@ -1,0 +1,12 @@
+{
+  "name": "help-recycling-app",
+  "displayName": "help-recycling-app",
+  "expo": {
+    "name": "help-recycling-app",
+    "slug": "help-recycling-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
